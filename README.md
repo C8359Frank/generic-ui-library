@@ -1,4 +1,4 @@
-# generic-ui-library
+# generic-ui-librarya
 
 [English translation](./README_EN.md)
 
